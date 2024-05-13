@@ -1,0 +1,16 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
